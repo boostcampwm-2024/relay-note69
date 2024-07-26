@@ -68,6 +68,7 @@ GPT에게 개념을 물어보는게 아닌 무엇을 공부해야할지 물어�
 -> 🧘퀘스트 수행하기 - J062_김준기님 (사다리타기로 공평하게 결정.....)
 
 <https://nodejs.org/api/worker_threads.html>
+<https://nodejs.org/en/learn/asynchronous-work/the-nodejs-event-emitter>
 
 ## Quest 3
 
