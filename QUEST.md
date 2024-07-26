@@ -80,6 +80,11 @@
 - 기준: 다음 릴프까지 2번 이상 해서 기록하기
 
 -> 🧘퀘스트 수행하기 - J027_김다영님 (원하는 퀘스트 선택)
+저는 이번주, 학습정리에서 레퍼런스를 최소 12개 이상 확인했습니다.
+- Day5 14개 https://www.notion.so/DAY5-OOP-a18053a82d5f453fb0c69e85dce3130e 
+- DAY6 12개 https://www.notion.so/DAY6-URL-testing-framework-7405ab1a6acd4f01b5a221ca9112c7d0 
+- DAY7 14개 https://www.notion.so/DAY7-307fda446d73411a99926ce81cc47bf9 
+- DAY8 12개 https://www.notion.so/DAY8-Pub-Sub-7e4b86600ff043828e21be9eb7f84d47 
 
 
 ## Quest 5
