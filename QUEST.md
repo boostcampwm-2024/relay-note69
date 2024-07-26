@@ -108,7 +108,13 @@ GPT에게 개념을 물어보는게 아닌 무엇을 공부해야할지 물어�
 - https://fifth-calf-816.notion.site/CustomStringConvertible-cc1501fa569a4b6c906874430df01fa9?pvs=4
 
 -> 🧘퀘스트 수행하기 - J287_김태현님 (원하는 퀘스트 선택)
-- 구글에 검색해서 나온 블로그나 자료들은 이미 글쓴이의 생각이 반영되어 정제된 내용을 담고 있기 때문에 단편적이거나 편향된 정보로만 접근하게 될 수 있어 공식 문서를 참고하는 것이 개발자로서 성장에 도움이 된다고 판단하였기 때문입니다.
+- js, nodejs, git 공식 문서를 참조했다.
+    - https://developer.mozilla.org/ko/
+    - https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
+    - https://poiemaweb.com/
+    - https://www.git-scm.com/docs
+  
+- 선정 이유: 구글에 검색해서 나온 블로그나 자료들은 이미 글쓴이의 생각이 반영되어 정제된 내용을 담고 있기 때문에 단편적이거나 편향된 정보로만 접근하게 될 수 있어 공식 문서를 참고하는 것이 개발자로서 성장에 도움이 된다고 판단하였기 때문입니다.
 
 
 ## Quest 6
