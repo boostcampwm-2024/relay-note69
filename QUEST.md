@@ -53,6 +53,11 @@
 
 -> 🧘퀘스트 수행하기 - J062_김준기님 (원하는 퀘스트 선택)
 
+GPT에게 개념을 물어보는게 아닌 무엇을 공부해야할지 물어봄
+
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/2068103b-82df-4dbc-bf2e-be3e00d33222">
+
+
 ## Quest 2
 
 > 써드 파티는 내 것이 아닙니다. 정확히 동작원리를 알고 사용합시다.
